@@ -1,3 +1,8 @@
+# Parts
+- HTTP - Yes
+- HTTPS - 50/50
+- Repeater - Yes
+
 # Proxy usage
 Config is `config/sproxy.json`
 
