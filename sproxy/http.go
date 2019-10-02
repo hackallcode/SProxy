@@ -145,7 +145,7 @@ func handleTunneling(w http.ResponseWriter, r *http.Request) {
 func mainHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method == http.MethodConnect {
 		log.Println("here need be https")
-		// handleTunneling(w, r)
+		handleTunneling(w, r)
 	} else {
 		handleHTTP(w, r)
 	}
