@@ -1,0 +1,6 @@
+github.com/hackallcode/hackonf v0.0.0-20190928223307-c9f4a1114542 h1:ol7PzQdYxaNYbQoeFtdCwNQMwXY58qjyH8Zzl4KO6HU=
+github.com/hackallcode/hackonf v0.0.0-20190928223307-c9f4a1114542/go.mod h1:PVKhf3rOSJhixoFMg3J3iozt2lSYQN6sIS9qjbOY/Yg=
+github.com/kabukky/httpscerts v0.0.0-20150320125433-617593d7dcb3 h1:Iy7Ifq2ysilWU4QlCx/97OoI4xT1IV7i8byT/EyIT/M=
+github.com/kabukky/httpscerts v0.0.0-20150320125433-617593d7dcb3/go.mod h1:BYpt4ufZiIGv2nXn4gMxnfKV306n3mWXgNu/d2TqdTU=
+github.com/mattn/go-sqlite3 v1.11.0 h1:LDdKkqtYlom37fkvqs8rMPFKAMe8+SgjbwZ6ex1/A/Q=
+github.com/mattn/go-sqlite3 v1.11.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=

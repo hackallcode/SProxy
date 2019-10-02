@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 8888,
+    "cert_dir": "cert/",
+    "protocol": "http",
+    "db_path": "proxy.sqlite"
+}
